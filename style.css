@@ -1,0 +1,64 @@
+ #cv-contact {
+     background-color: white;
+     display: inline-flex;
+ }
+ 
+ #right {
+     margin-left: 1100px;
+     position: relative;
+ }
+ 
+ .Container {
+     width: 1500px;
+     border: black solid;
+ }
+ 
+ .education-body {
+     position: relative;
+     left: 800px;
+ }
+ 
+ #jobs-content {
+     position: relative;
+     left: 800px
+ }
+ 
+ .one {
+     position: relative;
+     left: 800px;
+ }
+ 
+ #Intern-body {
+     position: relative;
+     left: 800px;
+ }
+ 
+ #POSITIONS-CONTENT {
+     position: relative;
+     left: 800px;
+ }
+ 
+ #TRAININGS-CONTENT {
+     position: relative;
+     left: 800px;
+ }
+ 
+ #PROJECTS-CONTENT {
+     position: relative;
+     left: 800px;
+ }
+ 
+ #skills-right {
+     position: relative;
+     left: 800px;
+ }
+ 
+ #skills-left {
+     position: relative;
+     left: 800px;
+ }
+ 
+ #WORK-SAMPLES-CONTENT {
+     position: relative;
+     left: 800px;
+ }
